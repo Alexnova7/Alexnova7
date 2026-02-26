@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Aysu Huseynli! 
-### ✨ Passionate Data Engineer & Python Developer
+### ✨Data Engineer & Python Developer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Alexnova7&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />

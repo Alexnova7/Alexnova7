@@ -10,7 +10,6 @@ I am a **Data Engineering enthusiast** focused on building efficient ETL pipelin
 
 - 🛰️ **Currently working on:** [AstroData Engine](https://github.com/Alexnova7/Global-Space-Exploration-Satellite-Tracker) - Real-time ISS tracking.
 - 🐍 **Tech Philosophy:** Write clean, scalable, and automated code.
-- ⚡ **Fun Fact:** I use AI as my "Pair Programmer" to accelerate 1-month projects into 1-week realities.
 
 ---
 

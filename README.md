@@ -38,9 +38,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alexnova7&show_icons=true&theme=radical&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexnova7&layout=compact&theme=radical" />
+p align="center">
+  <img width="48%" src="https://github-readme-stats-six-rebel.vercel.app/api?username=Alexnova7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=Alexnova7&layout=compact&theme=radical" />
 </p>
 
 ---

@@ -45,7 +45,9 @@
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexnova7&theme=tokyonight&hide_border=false" />
 </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alexnova7/Alexnova7/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
 ---
 
 ### 📫 Contact Me

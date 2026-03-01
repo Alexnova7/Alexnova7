@@ -14,7 +14,7 @@
 - 🔭 I am a **Data Engineer** specialized in building robust **ETL pipelines**.
 - ⚡ I use **Python** to automate complex data workflows and track real-time satellite data.
 - 📊 Expert in **Excel** for data modeling and structured reporting.
-- 🌐 Knowledgeable in **HTML, CSS, and JavaScript** for web integration.
+- 🌐 Knowledgeable in **HTML and JavaScript** for web integration.
 
 ---
 
